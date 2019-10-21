@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt">27a7b3091b10001068d28733cc4bcb74</application>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -17,7 +17,7 @@
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_58872_needit_needit</name>
         <order>150</order>
-        <override_menu_roles>false</override_menu_roles>
+        <override_menu_roles>true</override_menu_roles>
         <query/>
         <report/>
         <roles>x_58872_needit.needit_user</roles>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ee1805c71b60001068d28733cc4bcbc1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>My NeedIt Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_module_ee1805c71b60001068d28733cc4bcbc1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-21 20:27:38</sys_updated_on>
+        <sys_updated_on>2019-10-21 20:42:30</sys_updated_on>
         <timeline_page/>
         <title>My NeedIt Requests</title>
         <uncancelable>false</uncancelable>
